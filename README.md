@@ -1,4 +1,4 @@
-![Typing Effect](https://demolab.com!)
+![Typing Effect](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Mini+Apps+%26+Games+Collection)
 
 
 ### Mini Apps & Games Collection
