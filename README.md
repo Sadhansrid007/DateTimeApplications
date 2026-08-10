@@ -1,4 +1,5 @@
-# <img src="https://demolab.com!" alt="Typing Effect" />
+![Typing Effect](https://demolab.com!)
+
 
 ### Mini Apps & Games Collection
 
